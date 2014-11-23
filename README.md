@@ -5,40 +5,39 @@ A boilerplate for smaller websites or webbapplications using PHP. Works with MYS
 
 # Modules
 
-## CContent
+### CContent
 A module for administrating pages, with functions for updating, remvinga and adding pages
 
-## CBlog
+### CBlog
 A module for showing and getting posts and showing them as a blog
 
-## CPage
-A module for showing and getting posts and showing them as a blog
-
-## CDatabase
+### CDatabase
 A module for database manegment with functions for common SQL-querys
 
-## CImage
+### CImage
 A module for managing images, for resize, crop-to-fit and applying filters such as sharpen
 
-## CGallery
+### CGallery
 A module for creating a gallery
 
-## CHomepage
+### CHomepage
 A module used for the homepage, when you want to get games
 
-## CMovies
+### CMovies
 A module for fetching objects from the database and displaying them correctly
 
-## CSource
+### CSource
 A modle for showing the source code of a wbpage
 
-## CTextFilter
+### CTextFilter
 A helper-module for CBlog and CPage,so you can display the text with filters such as Markdown
 
-## CUSer
+### CUSer
 A module for handling users and logins
 
- 
+#Usage
+The following modules can used as a framework to create a website like [this website](http://www.student.bth.se/~albh14/oophp/kmom07/Cr33kWork/RM-Rental/webroot/home.php).
+
 Built by Alexander Björkenhall
  
 License 
